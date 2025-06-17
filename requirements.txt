@@ -1,6 +1,6 @@
 #conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 tensorflow<2.11
-numpy==1.21.6
+numpy==1.26.4
 imageio
 natsort
 tqdm
