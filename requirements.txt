@@ -2,6 +2,7 @@
 tensorflow<2.11
 numpy==1.26.4
 imageio
+Pillow
 natsort
 tqdm
 jupyter
